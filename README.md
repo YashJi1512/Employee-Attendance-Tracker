@@ -59,7 +59,6 @@ An automated, user-friendly attendance management system built entirely in **Goo
 
 - Bar Chart: Present Days per Employee  
 - Pie Chart: Distribution of P/A/L
-- 
 ---
 
 ## 💡 How to Use
@@ -79,6 +78,7 @@ An automated, user-friendly attendance management system built entirely in **Goo
 - 👥 Employee login and self-service dashboard
 
 ---
+
 
 ## 📃 License
 
